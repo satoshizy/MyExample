@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="tv_test1" translatable="false">1145141919810</string>
+    <string-array name="citys">
+        <item>北京</item>
+        <item>上海</item>
+        <item>济南</item>
+        <item>青岛</item>
+    </string-array>
+</resources>
